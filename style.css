@@ -1,0 +1,17 @@
+body {
+  border: 5px rgb(190, 14, 14);
+  padding: 20px;
+  margin: 30px;
+  background-color: lightblue;
+}
+
+h1 {
+  margin: 0;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+header {
+  font-family: Arial, sans-serif; 
+}
+
